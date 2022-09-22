@@ -1,0 +1,6 @@
+C:\Users\ebruce5\source\repos\ShoppingCartList\ShoppingCartList.Blazor\obj\Debug\net6.0\ShoppingCartList.Blazor.csproj.AssemblyReference.cache
+C:\Users\ebruce5\source\repos\ShoppingCartList\ShoppingCartList.Blazor\obj\Debug\net6.0\ShoppingCartList.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebruce5\source\repos\ShoppingCartList\ShoppingCartList.Blazor\obj\Debug\net6.0\ShoppingCartList.Blazor.AssemblyInfoInputs.cache
+C:\Users\ebruce5\source\repos\ShoppingCartList\ShoppingCartList.Blazor\obj\Debug\net6.0\ShoppingCartList.Blazor.AssemblyInfo.cs
+C:\Users\ebruce5\source\repos\ShoppingCartList\ShoppingCartList.Blazor\obj\Debug\net6.0\ShoppingCartList.Blazor.csproj.CoreCompileInputs.cache
+C:\Users\ebruce5\source\repos\ShoppingCartList\ShoppingCartList.Blazor\obj\Debug\net6.0\ShoppingCartList.Blazor.MvcApplicationPartsAssemblyInfo.cache
